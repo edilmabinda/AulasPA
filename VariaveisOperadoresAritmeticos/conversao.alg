@@ -1,12 +1,10 @@
-algoritmo "imprimirvariaal"
+algoritmo "conversaodolar"
 // Função :
 // Autor :
 // Data : 09/03/2023
 // Seção de Declarações 
 var
-d:real
-inicio
-d<- 6
 
-escreval("oi",d)
+inicio
+// Seção de Comandos 
 fimalgoritmo
